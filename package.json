@@ -16,5 +16,7 @@
     "url": "https://github.com/ianguyue/webpack/issues"
   },
   "homepage": "https://github.com/ianguyue/webpack#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
 }
